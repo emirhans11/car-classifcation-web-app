@@ -1,0 +1,338 @@
+
+======== EPOCH 1/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+ 13%|█▎        | 17/134 [00:21<01:02,  1.87it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:20<00:00,  1.66it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.54it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.11it/s]
+
+Train Loss: 1.6929
+Train Macro F1: 0.5056
+
+Val Loss: 0.8177
+Val Macro F1: 0.7192
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 2/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  2%|▏         | 3/134 [00:02<01:32,  1.41it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  4%|▎         | 5/134 [00:03<01:14,  1.74it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:08<00:00,  1.95it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.51it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:15<00:00,  2.13it/s]
+
+Train Loss: 0.5682
+Train Macro F1: 0.8043
+
+Val Loss: 0.5853
+Val Macro F1: 0.8100
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 3/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  8%|▊         | 11/134 [00:06<01:13,  1.68it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+ 27%|██▋       | 36/134 [00:18<00:45,  2.16it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:08<00:00,  1.95it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.51it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:15<00:00,  2.14it/s]
+
+Train Loss: 0.2977
+Train Macro F1: 0.9003
+
+Val Loss: 0.4766
+Val Macro F1: 0.8437
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 4/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  4%|▎         | 5/134 [00:03<01:31,  1.41it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+ 11%|█         | 15/134 [00:08<01:02,  1.92it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:10<00:00,  1.91it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.50it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.10it/s]
+
+Train Loss: 0.1670
+Train Macro F1: 0.9470
+
+Val Loss: 0.4336
+Val Macro F1: 0.8611
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 5/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+ 13%|█▎        | 17/134 [00:10<01:01,  1.91it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:08<00:00,  1.94it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.12it/s]
+
+Train Loss: 0.1088
+Train Macro F1: 0.9663
+
+Val Loss: 0.4065
+Val Macro F1: 0.8743
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 6/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  7%|▋         | 9/134 [00:05<01:10,  1.76it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+ 11%|█         | 15/134 [00:08<00:54,  2.17it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:09<00:00,  1.93it/s]
+ 21%|██        | 7/34 [00:06<00:18,  1.49it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.10it/s]
+
+Train Loss: 0.0661
+Train Macro F1: 0.9813
+
+Val Loss: 0.3935
+Val Macro F1: 0.8837
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 7/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  7%|▋         | 9/134 [00:05<01:09,  1.80it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:09<00:00,  1.94it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:15<00:00,  2.14it/s]
+
+Train Loss: 0.0475
+Train Macro F1: 0.9876
+
+Val Loss: 0.3813
+Val Macro F1: 0.8882
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 8/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  4%|▎         | 5/134 [00:03<01:18,  1.65it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  5%|▌         | 7/134 [00:04<01:15,  1.69it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:10<00:00,  1.91it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.50it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.11it/s]
+
+Train Loss: 0.0345
+Train Macro F1: 0.9926
+
+Val Loss: 0.3671
+Val Macro F1: 0.8915
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 9/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+ 10%|▉         | 13/134 [00:07<01:07,  1.78it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+ 13%|█▎        | 17/134 [00:09<01:01,  1.91it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:08<00:00,  1.94it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.51it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.11it/s]
+
+Train Loss: 0.0273
+Train Macro F1: 0.9945
+
+Val Loss: 0.3783
+Val Macro F1: 0.8878
+
+======== EPOCH 10/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  2%|▏         | 3/134 [00:02<01:30,  1.45it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  7%|▋         | 9/134 [00:05<01:04,  1.94it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:09<00:00,  1.92it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:15<00:00,  2.14it/s]
+
+Train Loss: 0.0207
+Train Macro F1: 0.9959
+
+Val Loss: 0.3689
+Val Macro F1: 0.8928
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 11/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  1%|          | 1/134 [00:01<03:03,  1.38s/it]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  5%|▌         | 7/134 [00:04<01:18,  1.62it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:08<00:00,  1.97it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.51it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.11it/s]
+
+Train Loss: 0.0179
+Train Macro F1: 0.9964
+
+Val Loss: 0.3585
+Val Macro F1: 0.9018
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 12/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  4%|▎         | 5/134 [00:03<01:21,  1.58it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  7%|▋         | 10/134 [00:05<00:56,  2.18it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:10<00:00,  1.90it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:15<00:00,  2.13it/s]
+
+Train Loss: 0.0148
+Train Macro F1: 0.9972
+
+Val Loss: 0.3480
+Val Macro F1: 0.9073
+
+🔥 BEST MODEL SAVED 🔥
+
+======== EPOCH 13/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  1%|          | 1/134 [00:01<02:49,  1.27s/it]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:10<00:00,  1.91it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.12it/s]
+
+Train Loss: 0.0112
+Train Macro F1: 0.9981
+
+Val Loss: 0.3637
+Val Macro F1: 0.9056
+
+======== EPOCH 14/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+  3%|▎         | 4/134 [00:02<01:09,  1.86it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+  8%|▊         | 11/134 [00:05<00:52,  2.36it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 134/134 [01:09<00:00,  1.92it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.53it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.12it/s]
+
+Train Loss: 0.0088
+Train Macro F1: 0.9987
+
+Val Loss: 0.3545
+Val Macro F1: 0.9017
+
+======== EPOCH 15/15 ========
+
+  0%|          | 0/134 [00:00<?, ?it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/tmp/ipykernel_4876/3324318499.py:17: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+100%|██████████| 134/134 [01:08<00:00,  1.95it/s]
+ 21%|██        | 7/34 [00:06<00:17,  1.52it/s]/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+100%|██████████| 34/34 [00:16<00:00,  2.12it/s]
+Train Loss: 0.0102
+Train Macro F1: 0.9984
+
+Val Loss: 0.3679
+Val Macro F1: 0.9019
+
+🏆 BEST VAL F1: 0.9073
