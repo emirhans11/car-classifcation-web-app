@@ -70,11 +70,11 @@ Detailed class-wise performance breakdown on the test dataset:
 
 
 
-\* \*\*Deep Learning Frameworks:\*\* Python, PyTorch / TensorFlow
+\* \*\*Deep Learning Frameworks:\*\* Python,Transformers
 
-\* \*\*Web Application / UI:\*\* Streamlit / Flask / FastAPI
+\* \*\*Web Application / UI:\*\* Gradio
 
-\* \*\*Data Visualization:\*\* Matplotlib, Seaborn
+\* \*\*Data Visualization:\*\* Matplotlib
 
 
 
